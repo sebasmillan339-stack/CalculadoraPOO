@@ -10,3 +10,4 @@ public class RaizCubica extends Operacion {
         return Math.cbrt(a);
     }
 }
+ 
