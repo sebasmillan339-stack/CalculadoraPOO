@@ -13,3 +13,4 @@ public class LogaritmoNatural extends Operacion {
         return Math.log(a);
     }
 }
+ 
