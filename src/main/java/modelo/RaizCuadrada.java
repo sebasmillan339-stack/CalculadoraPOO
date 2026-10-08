@@ -13,3 +13,4 @@ public class RaizCuadrada extends Operacion {
         return Math.sqrt(a);
     }
 }
+ 
