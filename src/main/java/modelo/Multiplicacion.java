@@ -10,3 +10,4 @@ public class Multiplicacion extends Operacion {
         return a * b;
     }
 }
+ 
